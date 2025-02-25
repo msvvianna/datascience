@@ -1,0 +1,1 @@
+# 01/01/2026 - Inicio do curso de Datascience Alura.
